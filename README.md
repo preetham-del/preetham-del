@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Preetham 👋
 
-<!--
-**preetham-del/preetham-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software developer currently deepening my expertise in core programming and venturing into the exciting fields of **full-stack development and AI**. My foundation is built on languages like **Java, Python, and C**.
 
-Here are some ideas to get you started:
+## Skills
+### Core Technologies
+* **Languages:** Java, Python, C, SQL
+* **Databases & Tools:** MySQL, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning & Exploring (AI/Full-Stack)
+* **AI:** Machine Learning concepts, data analysis
+* **Web:** React, Node.js (actively learning)
+
+## Projects
+Here are a few projects that showcase my problem-solving and development skills:
+
+---
+
+## Contact
+I'm always open to discussing new opportunities or collaborating on interesting projects!
+
+* **Email:** preetham@example.com
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/preetham)
