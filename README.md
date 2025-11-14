@@ -20,5 +20,5 @@ Here are a few projects that showcase my problem-solving and development skills:
 ## Contact
 I'm always open to discussing new opportunities or collaborating on interesting projects!
 
-* **Email:** preetham@example.com
-* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/preetham)
+* **Email:** hbpreetham36@gmail.com
+* **LinkedIn:** http://www.linkedin.com/in/preetham-preethu-80b2b8389
